@@ -6,7 +6,6 @@ import { StudentDashboard } from './pages/StudentDashboard';
 import { StudentProfile } from './pages/StudentProfile';
 import { InitialAssessment } from './pages/InitialAssessment';
 import { CoursesPage } from './pages/CoursesPage';
-import  Onboarding  from './pages/Onboarding';
 // Add this to your existing routes
 function App() {
   return (
